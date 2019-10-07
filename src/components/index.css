@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+.charts{
+    /*padding: 60px;*/
+}
+.button{
+    width: 1200px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 16px;
+}
